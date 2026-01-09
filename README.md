@@ -105,13 +105,13 @@ For questions, feedback, or collaboration opportunities, please email me at:
 
 If you use this repository in your research or projects, please cite it as follows.
 
+```bibtex
 @misc{emamjomehzadeh2024pptsa,
   author       = {Emamjomehzadeh, Omid and Zhang, Ruixuan and Ahmadjou, Ahmadreza},
   title        = {Daily Rainfall Time Series Analysis of Central Park, New York},
   year         = {2024},
   howpublished = {\url{https://github.com/omidemam/PPTSA}},
 }
-
 
 
 
