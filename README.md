@@ -26,6 +26,60 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
 
 ---
 
+## 🧾 Results
+
+### 📌 Frequency-Domain Reconstruction (Daily PRCP)
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="Figures/daily_prcp_reconstructed_signal.gif" alt="Daily precipitation signal reconstruction and error" width="95%">
+</p>
+
+<p align="center" style="margin-top: 6px;">
+  <em>
+    Frequency-domain reconstruction of daily precipitation (PRCP) using the dominant Fourier components (top frequencies).
+    Left: original PRCP time series overlaid with the reconstructed signal. Right: reconstruction error (PRCP − reconstructed signal),
+    highlighting how impulse-like rainfall events dominate the mismatch.
+  </em>
+</p>
+
+### 📌 Marked Point Process (MPP): State Estimation (two years)
+
+[Open the PDF figure](Figures/MPP_result.pdf)
+
+<p align="center" style="margin-bottom: 0;">
+  <a href="Figures/MPP_result.pdf">
+    <img src="Figures/MPP_result.pdf" alt="MPP state estimation results (PDF)" width="90%">
+  </a>
+</p>
+
+<p align="center" style="margin-top: 6px;">
+  <em>
+    MPP state estimation results for two years: (a) the measured precipitation data, (b) the continuous decoded hidden state,
+    and (c) the normalized decoded hidden state.
+  </em>
+</p>
+
+> Note: GitHub may not render PDF figures inline in README. If it doesn’t display above, use the link to open the PDF.
+
+
+### 📌 LSTM + Gaussian Process (GP): Prediction + Uncertainty (1912)
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="Figures/lstmgpres.png" alt="LSTM and GP residual uncertainty (1912)" width="90%">
+</p>
+
+<p align="center" style="margin-top: 6px;">
+  <em>
+    Observed precipitation values, LSTM predictions, LSTM uncertainty band, Gaussian processes of residuals, and their mean and
+    confidence interval for the year 1912.
+  </em>
+</p>
+
+
+
+
+---
+
 ## 🔬 Methods & Modeling Framework
 
 The repository implements and compares the following approaches:
