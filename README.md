@@ -62,7 +62,21 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
   </em>
 </p>
 
+---
 
+### 📌 Frequency-Domain Reconstruction (Daily PRCP)
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="Figures/daily_prcp_reconstructed_signal.gif" alt="Daily precipitation signal reconstruction and error" width="95%">
+</p>
+
+<p align="center" style="margin-top: 6px;">
+  <em>
+    Frequency-domain reconstruction of daily precipitation (PRCP) using the dominant Fourier components (top frequencies).
+    Left: original PRCP time series overlaid with the reconstructed signal. Right: reconstruction error (PRCP − reconstructed signal),
+    highlighting how impulse-like rainfall events dominate the mismatch.
+  </em>
+</p>
 
 ---
 
