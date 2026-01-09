@@ -49,7 +49,7 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
 
 ---
 
-### 📌 LSTM + Gaussian Process (GP): Prediction + Residual Uncertainty (1912)
+### 📌 LSTM + Gaussian Process (GP): Prediction + Uncertainty (1912)
 
 <p align="center" style="margin-bottom: 0;">
   <img src="Figures/lstmgpres.png" alt="LSTM and GP residual uncertainty (1912)" width="90%">
@@ -57,7 +57,7 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
 
 <p align="center" style="margin-top: 6px;">
   <em>
-    Observed precipitation values, LSTM predictions, LSTM uncertainty band, Gaussian processes of residuals and its mean and
+    Observed precipitation values, LSTM predictions, LSTM uncertainty band, Gaussian processes of residuals, and their mean and
     confidence interval for the year 1912.
   </em>
 </p>
