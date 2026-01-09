@@ -80,3 +80,34 @@ PPTSA/
 │
 ├─ README.md
 └─ LICENSE
+
+---
+
+
+## 📬 Contact
+
+For questions, feedback, or collaboration opportunities, please email me at:  
+[omid.emamjomehzadeh@nyu.edu](mailto:omid.emamjomehzadeh@nyu.edu)
+
+---
+
+## 📚 Citation
+
+If you use this repository in your research or projects, please cite it as follows.
+
+BibTeX format:
+
+```bibtex
+@misc{emamjomehzadeh2025pptsa,
+  author       = {Emamjomehzadeh, Omid}, {Ruixuan, Zhang}, {Ahmadreza, Ahmadjou}
+  title        = {Daily Rainfall Time Series Analysis of Central Park, New York},
+  year         = {2024},
+  howpublished = {\url{https://github.com/omidemam/PPTSA}},
+}
+Copy code
+
+
+
+
+
+
