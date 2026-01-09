@@ -100,7 +100,7 @@ BibTeX format:
 
 ```bibtex
 @misc{emamjomehzadeh2025pptsa,
-  author       = {Emamjomehzadeh, Omid}, {Ruixuan, Zhang}, {Ahmadreza, Ahmadjou}
+  author       = {Emamjomehzadeh, Omid}, {Ruixuan, Zhang}, {Ahmadreza, Ahmadjou},
   title        = {Daily Rainfall Time Series Analysis of Central Park, New York},
   year         = {2024},
   howpublished = {\url{https://github.com/omidemam/PPTSA}},
