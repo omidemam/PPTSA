@@ -44,10 +44,8 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
 
 ### 📌 Marked Point Process (MPP): State Estimation (two years)
 
-[Open the PDF figure](Figures/MPP.png)
-
 <p align="center" style="margin-bottom: 0;">
-  <a href="Figures/MPP_result.pdf">
+  <a href="Figures/MPP.png">
     <img src="Figures/MPP_result.pdf" alt="MPP state estimation results (PDF)" width="90%">
   </a>
 </p>
