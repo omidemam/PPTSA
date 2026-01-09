@@ -45,8 +45,8 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
 ### 📌 Marked Point Process (MPP): State Estimation (two years)
 
 <p align="center" style="margin-bottom: 0;">
-  <a href="Figures/MPP.png">
-    <img src="Figures/MPP_result.pdf" alt="MPP state estimation results (PDF)" width="90%">
+  <a href="Figures/MPP_result.pdf">
+    <img src="Figures/MPP.png" alt="MPP state estimation results" width="90%">
   </a>
 </p>
 
@@ -56,8 +56,6 @@ The goal is to **understand precipitation dynamics**, assess **forecasting limit
     and (c) the normalized decoded hidden state.
   </em>
 </p>
-
-> Note: GitHub may not render PDF figures inline in README. If it doesn’t display above, use the link to open the PDF.
 
 
 ### 📌 LSTM + Gaussian Process (GP): Prediction + Uncertainty (1912)
