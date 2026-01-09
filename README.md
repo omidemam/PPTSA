@@ -82,7 +82,16 @@ PPTSA/
 └─ LICENSE
 
 ```
+## 🤝 Contributions
 
+- **Omid Emamjomehzadeh**  
+  Conceptualization; finding the dataset and learning how to use it; data preprocessing; methodology development; implementing the LSTM model; hyper-parameter tuning for the LSTM; applying a Gaussian Process to model the residuals of LSTM predictions; analysis and interpretation of results; presentation preparation; writing the original report draft; and editing.
+
+- **Ahmadreza Ahmadjou**  
+  Implementing the SARIMAX forecasting model (data processing, training, and parameter tuning via trial-and-error); Marked Point Process (MPP) approach including conceptualization, implementation, and results analysis/interpretation; report writing (writing and editing); and presentation preparation.
+
+- **Ruixuan Zhang**  
+  Implementing frequency-domain analysis (DFT and DSTFT); results analysis and visualization; report writing; and presentation preparation.
 
 
 ## 📬 Contact
@@ -96,16 +105,13 @@ For questions, feedback, or collaboration opportunities, please email me at:
 
 If you use this repository in your research or projects, please cite it as follows.
 
-BibTeX format:
-
-```bibtex
-@misc{emamjomehzadeh2025pptsa,
-  author       = {Emamjomehzadeh, Omid}, {Ruixuan, Zhang}, {Ahmadreza, Ahmadjou},
+@misc{emamjomehzadeh2024pptsa,
+  author       = {Emamjomehzadeh, Omid and Zhang, Ruixuan and Ahmadjou, Ahmadreza},
   title        = {Daily Rainfall Time Series Analysis of Central Park, New York},
   year         = {2024},
   howpublished = {\url{https://github.com/omidemam/PPTSA}},
 }
-Copy code
+
 
 
 
