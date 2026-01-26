@@ -144,10 +144,10 @@ The dataset is publicly available on Kaggle: [Central Park Weather Data 1869-202
   Conceptualization; finding the dataset and learning how to use it; data preprocessing; methodology development; implementing the LSTM model; hyper-parameter tuning for the LSTM; applying a Gaussian Process to model the residuals of LSTM predictions; analysis and interpretation of results; presentation preparation; writing the original report draft; and editing.
 
 - **Ahmadreza Ahmadjou**  
-  Implementing the SARIMAX forecasting model (data processing, training, and parameter tuning via trial-and-error); Marked Point Process (MPP) approach including conceptualization, implementation, and results analysis/interpretation; report writing (writing and editing); and presentation preparation.
+  Implementing the SARIMAX forecasting model (data processing, training, and parameter tuning via trial-and-error); Marked Point Process (MPP) approach, including conceptualization, implementation, and results analysis/interpretation; report writing (writing and editing); and presentation preparation.
 
 - **Ruixuan Zhang**  
-  Implementing frequency-domain analysis (DFT and DSTFT); results analysis and visualization; report writing; and presentation preparation.
+  Implementing frequency-domain analysis (DFT and DSTFT), results analysis and visualization, report writing, and presentation preparation.
 
 
 ## 📬 Contact
