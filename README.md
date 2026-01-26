@@ -1,5 +1,6 @@
-# PPTSA
-
+<p float="left">
+  <img src="Image/ChatGPT Image Jan 25, 2026, 08_04_49 PM.png"  />
+</p>
 > **Precipitation Probabilistic Time Series Analysis**  
 > Frequency analysis, statistical learning, and uncertainty-aware forecasting of long-term precipitation records.
 
