@@ -1,7 +1,13 @@
 <p float="left">
-  <img src="Image/ChatGPT Image Jan 25, 2026, 08_04_49 PM.png"  />
+  <img src="Figures/ChatGPT Image Jan 25, 2026, 08_04_49 PM.png"  />
 </p>
+> **Precipitation Probabilistic Time Series Analysis**  
+> Frequency analysis, statistical learning, and uncertainty-aware forecasting of long-term precipitation records.
 
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-F37626.svg)](https://jupyter.org)
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-supported-orange.svg)](https://www.mathworks.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
 ---
 
 ## 🌧️ Overview
